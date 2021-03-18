@@ -1,1 +1,1 @@
-#POG-Auth-Clone
+# Plot-Of-Gold

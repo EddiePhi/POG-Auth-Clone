@@ -1,0 +1,18 @@
+.plantButton {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  border-width: medium;
+  border-radius: 0.313rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 0.625rem;
+  margin-bottom: 0.625rem;
+}
+
+h2 {
+  display: inline-block;
+  vertical-align: middle;
+}

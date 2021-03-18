@@ -1,0 +1,36 @@
+.homeButton {
+  width: 8rem;
+  height: 3rem;
+  margin: 0.625rem;
+  color: #485824;
+  font-weight: bold;
+  border: 1px solid #485824;
+}
+
+.space {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+}
+
+p {
+  color: #485824;
+}
+
+.plotDropList {
+  margin: 0.625rem;
+  color: #485824;
+  font-weight: bold;
+  border: 1px solid #485824;
+}
+
+@media only screen and (max-width: 768px) {
+  #first {
+    order: 1;
+  }
+  #second {
+    order: 3;
+  }
+  #third {
+    order: 2;
+  }
+}
